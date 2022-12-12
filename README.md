@@ -24,11 +24,12 @@ Jupyter Notebook
 
 ![](https://github.com/kevbattle/Project/blob/main/Images/Clean%20up%20process%20for%20Valuation%20Metrics.PNG)
 
+![](https://github.com/kevbattle/Project/blob/main/Images/Clean-up%20Process%20for%20Ticker%20Pricer.PNG)
 
 The process was performed using python in Jupyter notebook
 
 # Data Exploration
-
+![](https://github.com/kevbattle/Project/blob/main/Images/Tech%20Stock%20show%20hight%20trading.PNG)
  
 
 # Results
