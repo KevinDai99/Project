@@ -22,6 +22,9 @@ Jupyter Notebook
 
 # Data collection and Cleanup 
 
+![](https://github.com/kevbattle/Project/blob/main/Images/Clean%20up%20process%20for%20Valuation%20Metrics.PNG)
+
+
 The process was performed using python in Jupyter notebook
 
 # Data Exploration
